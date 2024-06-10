@@ -8,6 +8,7 @@ export default function Home() {
           <li><a href="/about">Sobre</a></li>
           <li><a href="/profile">Perfil</a></li>
           <li><a href="/blog">Blog</a></li>
+          <li><a href="/login">Login</a></li>
         </ul>
       </nav>
     </div>
